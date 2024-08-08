@@ -27,7 +27,7 @@ body.loading .loading-modal {
     position: relative;
     margin-right: auto;
     margin-left: auto;
-    max-width: 50%;
+    -max-width: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
